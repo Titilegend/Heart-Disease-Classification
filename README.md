@@ -2,7 +2,7 @@
 
 **Predict Heart Disease Using Machine Learning**
 
-This repository demonstrates an end-to-end machine learning pipeline capable of predicting whether a patient has heart disease from clinical parameters. Leveraging Python's data science ecosystem, this project walks through data analysis, model building, evaluation, and practical interpretation.
+This is an end-to-end machine learning pipeline capable of predicting whether a patient has heart disease from clinical parameters. Leveraging Python's data science ecosystem, this project walks through data analysis, model building, evaluation, and practical interpretation.
 
 ---
 
