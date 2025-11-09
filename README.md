@@ -55,7 +55,7 @@ Step-by-step workflow:
 ## Algorithms & Metrics
 
 ### Algorithms Used
-- **Logistic Regression** (best model)
+- **Logistic Regression**
 - **K-Nearest Neighbors**
 - **Random Forest**
 
